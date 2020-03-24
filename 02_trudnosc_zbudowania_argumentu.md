@@ -1,0 +1,10 @@
+# Trudnosc zbudowania argumentu
+
+ Wiedząc czym jest fakt, koncepcja, prawda i model rzeczywistości, możemy spojrzeć na argumentację. Jak działa? Aby dać wam obraz, który przeanalizujemy, posłużę się dwoma przykładami zdań.
+
+1. Nie masz racji, bo jesteś głupi.
+2. Nie masz racji i jesteś głupi.
+
+ Jak widać, oba zdania są bardzo podobne. Jedno i drugie składa się ze stwierdzeń "nie masz racji" i "jesteś głupi". Jak je opiszemy? Zaczniemy poprzez skupienie się na różnicach. Zauważmy, że relacja przez spójniki zdań jest inna dla obu przypadków. W jednej mamy przyczynowość, a w drugiej mamy bliskość występowania. W pierwszym widzimy, że osoba, do której się zwróciliśmy myli się. To wynika z tego, że jest głupia. Drugie mówi o czynności: ta osoba się myli i cesze: ta osba jest głupia. W pierwszym mamy prostą relację przyczynowo-skutkową, w drugiej po prostu zauważamy dwa fakty. Ten prosty przykład obrazuje jaskrawo różnicę pomiędzy tymi zdaniami. W pierwszym poniżamy osobę, wskazując jej głupotę jako przyczynek do jej pomyłki. W konsekwencji zamykamy tę osobę w kategorii ludzi "mylnych, bo są głupi". Dzięki temu zyskujemy erystyczną przewagę w stosunku do niej. My się nie mylimy, bo nie jesteśmy głupi. Ona się myli, bo jest głupia. To krzywdzące zdanie jest popularną techniką w dyspucie politycznej. Na merytoryczne argumenty słyszymy odpowiedzi, które można zredukować do "A ty zrobiłeś tak, bo jesteś kłamliwy". Te zdania nie mówią nam nic, ale niosą ogromny ładunek negatywnych emocji, który nas przykuwa do odbiornika (czy to odtwarzacz filmów na youtube, czy telewizja). Drugie zdanie natomiast składa się z rzekomego faktu i obelgi. Na temat pierwszego można porozmawiać, a drugie należy zignorować.
+
+ Zobacz, drogi Czytelniku, jak łatwo wpaść w pułapkę takiej argumentacji. Wystarczy podmienić jedno słowo, aby ułatwić sobie orientację w świecie. Zamiast odnieść się do argumentów drugiej strony i spróbować zrozumieć cudzą perspektywę, możemy określić ją jago błędną, złą, nikczemną i ją zignorować. Dużo prościej jest opisać kogoś "robisz tak, bo jesteś taki" niż zapytać "robisz tak. Masz jakiś powód?".
