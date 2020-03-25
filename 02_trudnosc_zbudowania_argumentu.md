@@ -1,6 +1,6 @@
 # Trudnosc zbudowania argumentu
 
- Wiedząc czym jest fakt, koncepcja, prawda i model rzeczywistości, możemy spojrzeć na argumentację. Jak działa? Aby dać wam obraz, który przeanalizujemy, posłużę się dwoma przykładami zdań.
+ Posłużę się dwoma przykładami zdań.
 
 1. Nie masz racji, bo jesteś głupi.
 2. Nie masz racji i jesteś głupi.
@@ -8,3 +8,12 @@
  Jak widać, oba zdania są bardzo podobne. Jedno i drugie składa się ze stwierdzeń "nie masz racji" i "jesteś głupi". Jak je opiszemy? Zaczniemy poprzez skupienie się na różnicach. Zauważmy, że relacja przez spójniki zdań jest inna dla obu przypadków. W jednej mamy przyczynowość, a w drugiej mamy bliskość występowania. W pierwszym widzimy, że osoba, do której się zwróciliśmy myli się. To wynika z tego, że jest głupia. Drugie mówi o czynności: ta osoba się myli i cesze: ta osba jest głupia. W pierwszym mamy prostą relację przyczynowo-skutkową, w drugiej po prostu zauważamy dwa fakty. Ten prosty przykład obrazuje jaskrawo różnicę pomiędzy tymi zdaniami. W pierwszym poniżamy osobę, wskazując jej głupotę jako przyczynek do jej pomyłki. W konsekwencji zamykamy tę osobę w kategorii ludzi "mylnych, bo są głupi". Dzięki temu zyskujemy erystyczną przewagę w stosunku do niej. My się nie mylimy, bo nie jesteśmy głupi. Ona się myli, bo jest głupia. To krzywdzące zdanie jest popularną techniką w dyspucie politycznej. Na merytoryczne argumenty słyszymy odpowiedzi, które można zredukować do "A ty zrobiłeś tak, bo jesteś kłamliwy". Te zdania nie mówią nam nic, ale niosą ogromny ładunek negatywnych emocji, który nas przykuwa do odbiornika (czy to odtwarzacz filmów na youtube, czy telewizja). Drugie zdanie natomiast składa się z rzekomego faktu i obelgi. Na temat pierwszego można porozmawiać, a drugie należy zignorować.
 
  Zobacz, drogi Czytelniku, jak łatwo wpaść w pułapkę takiej argumentacji. Wystarczy podmienić jedno słowo, aby ułatwić sobie orientację w świecie. Zamiast odnieść się do argumentów drugiej strony i spróbować zrozumieć cudzą perspektywę, możemy określić ją jago błędną, złą, nikczemną i ją zignorować. Dużo prościej jest opisać kogoś "robisz tak, bo jesteś taki" niż zapytać "robisz tak. Masz jakiś powód?".
+
+ Można zapytać:
+>dlaczego miałbym tak nie robić? Skoro mogę dzięki temu wygrać i ustawić się wyżej w hierarchii, to jaki mam powód na zaniechanie takich działań?
+
+ To pytanie jest poniekąd prośbą o przedstawienie powodów, dla których miałbym ugiąć się przed tym prawem. Jednakże, idąc tokiem podawania powodów, możemy odbić piłkę i zapytać: jakie masz powody, by sądzić, że twoja kategoryzacja twojego rozmówcy jest właściwa? Oczywiście, abyśmy mogli coś zrozumieć, musimy zamknąć to w kategorii. Różnica pomiędzy człowiekiem a innymi bytami jest taka, że ludzie są zbyt skomplikowani i niejednoznaczni, aby ich wrzucać do ciasnych szuflad. Po prostu się nie da, bo każda osoba jest odstępstwem od reguły. Oczywiście można nie wierzyć w logikę, czy nawet w sam Logos, jak to robią postmoderniści w swej próbie odrzucenia wszelkich wielkich narracji. Na szczęście, my jesteśmy poważnymi, nie cierpiącymi na defekty umysłowe ludźmi.
+
+ Zauważycie, że sam użyłem pewnych obraźliwych sformułowań w stosunku do postmodernistów. Można stwierdzić, że nie jestem lepszy. Jednakże, musimy zawuażyć pewną absolutną prawdę. Uwydatnia się tutaj esencjonalne wymaganie, aby dyskusja nosiła choćby ślady merytoryki, czy ucywilizowania: wszyscy jej uczestnicy muszą mieć wspólny cel (narrację), który nie godzi w innych. Jednym z takich celów jest spędzenie wspólnie czasu na przyjemnej rozmowie o rzeczach nieistotnych. Pożartowanie. Podzielenie się troskami i frustracją. W dyspucie merytorycznej, naszym celem podróży po ideach staje się coś nadrzędnego: prawda. Jak ukierunkować się na nią? Przede wszystkim: ustalić z rozmówcami, co chcecie osiągnąć. Trudno mieć pretensje do kogoś, że nie chce podążać ścieżką obraną przez was, kiedy nigdy mu o niej nie powiedzieliście.
+
+ Zauważyliśmy pewne zależności. Są jakieś powody, gdzieś pojawiło się słowo "prawda", zbudowaliśmy kilka koncepcji i posłużyliśmy się jakimiś założeniami. Warto przejść w takim razie do zdefiniowania ich.
